@@ -1,0 +1,8 @@
+{
+  "port": 3000,
+  "database_host": "YOUR_DATABASE_HOST",
+  "database_port": 3306,
+  "database_user": "YOUR_DATABASE_USER",
+  "database_password": "YOUR_DATABASE_PASSWORD",
+  "database": "YOUR_DATABASE"
+}
